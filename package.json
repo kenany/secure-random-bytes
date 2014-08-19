@@ -1,0 +1,32 @@
+{
+  "name": "secure-random-bytes",
+  "version": "0.0.0",
+  "description": "Retrieve a secure random byte string of a specified length",
+  "keywords": [
+    "crypto",
+    "random"
+  ],
+  "repository": "KenanY/secure-random-bytes",
+  "license": "MIT",
+  "author": "Kenan Yildirim <kenan@kenany.me> (http://kenany.me/)",
+  "main": "index.js",
+  "files": [
+    "index.js",
+    "LICENSE.txt"
+  ],
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "tape test/index.js"
+  },
+  "dependencies": {
+    "secure-random-octet": "^1.0.1"
+  },
+  "devDependencies": {
+    "lodash.every": "^2.4.1",
+    "lodash.isfunction": "^2.4.1",
+    "lodash.isstring": "^2.4.1",
+    "tape": "^2.14.0"
+  }
+}
