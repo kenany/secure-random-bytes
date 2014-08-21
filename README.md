@@ -1,5 +1,7 @@
 # secure-random-bytes
 
+[![Build Status](https://img.shields.io/travis/KenanY/secure-random-bytes.svg)](https://travis-ci.org/KenanY/secure-random-bytes)
+
 Retrieve a secure random byte string of a specified length.
 
 ## Example
