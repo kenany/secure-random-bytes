@@ -31,7 +31,7 @@
     "@kenan/eslint-config": "^4.0.0",
     "eslint": "^3.10.2",
     "lodash.every": "^4.6.0",
-    "lodash.isfunction": "^2.4.1",
+    "lodash.isfunction": "^3.0.8",
     "lodash.isstring": "^2.4.1",
     "nyc": "^9.0.1",
     "tape": "^4.6.2"
