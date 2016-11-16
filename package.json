@@ -34,6 +34,6 @@
     "lodash.isfunction": "^2.4.1",
     "lodash.isstring": "^2.4.1",
     "nyc": "^9.0.1",
-    "tape": "^2.14.0"
+    "tape": "^4.6.2"
   }
 }
