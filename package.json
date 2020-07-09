@@ -29,9 +29,9 @@
     "secure-random-octet": "^1.0.1"
   },
   "devDependencies": {
-    "@kenan/eslint-config": "^4.0.0",
+    "@kenan/eslint-config": "^8.0.0",
     "@kenan/renovate-config": "^1.1.1",
-    "eslint": "^3.10.2",
+    "eslint": "^7.4.0",
     "lodash.every": "^4.6.0",
     "lodash.isfunction": "^3.0.8",
     "lodash.isstring": "^4.0.1",

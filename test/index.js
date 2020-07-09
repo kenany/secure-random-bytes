@@ -1,8 +1,9 @@
-var randomBytes = require('../');
 var test = require('tape');
 var isFunction = require('lodash.isfunction');
 var every = require('lodash.every');
 var isString = require('lodash.isstring');
+
+var randomBytes = require('../');
 
 test('exports a function', function(t) {
   t.plan(1);
