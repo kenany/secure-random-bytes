@@ -1,8 +1,5 @@
 # secure-random-bytes
 
-[![Build Status](https://img.shields.io/travis/KenanY/secure-random-bytes.svg)](https://travis-ci.org/KenanY/secure-random-bytes)
-[![Dependency Status](https://img.shields.io/gemnasium/KenanY/secure-random-bytes.svg)](https://gemnasium.com/KenanY/secure-random-bytes)
-
 Retrieve a secure random byte string of a specified length.
 
 ## Example
