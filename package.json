@@ -26,7 +26,7 @@
     "test": "tape test/index.js"
   },
   "dependencies": {
-    "secure-random-octet": "^1.0.1"
+    "secure-random-octet": "^1.0.3"
   },
   "devDependencies": {
     "@kenan/eslint-config": "^8.0.0",
