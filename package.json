@@ -8,7 +8,7 @@
   ],
   "repository": "KenanY/secure-random-bytes",
   "license": "MIT",
-  "author": "Kenan Yildirim <kenan@kenany.me> (http://kenany.me/)",
+  "author": "Kenan Yildirim <kenan@kenany.me> (https://kenany.me/)",
   "engines": {
     "node": "10 || 12 || >=14"
   },
