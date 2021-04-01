@@ -1,3 +1,10 @@
+### [2.0.1](https://github.com/KenanY/secure-random-bytes/compare/2.0.0...2.0.1) (2021-04-01)
+
+
+### Bug Fixes
+
+* **doc:** update license year to 2021 ([50ace06](https://github.com/KenanY/secure-random-bytes/commit/50ace064736b5bd83392865d7ad9b9b1f4b1574c))
+
 ## [2.0.0](https://github.com/KenanY/secure-random-bytes/compare/1.0.1...2.0.0) (2021-04-01)
 
 
