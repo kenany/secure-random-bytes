@@ -1,3 +1,10 @@
+### [2.0.3](https://github.com/KenanY/secure-random-bytes/compare/2.0.2...2.0.3) (2021-04-02)
+
+
+### Bug Fixes
+
+* **deps:** secure-random-octet@1.0.4 ([afb640f](https://github.com/KenanY/secure-random-bytes/commit/afb640fb0549c6ef095ef26d02892fa23073f282))
+
 ### [2.0.2](https://github.com/KenanY/secure-random-bytes/compare/2.0.1...2.0.2) (2021-04-01)
 
 
