@@ -1,3 +1,14 @@
+## [3.0.0](https://github.com/KenanY/secure-random-bytes/compare/2.0.3...3.0.0) (2021-08-18)
+
+
+### ⚠ BREAKING CHANGES
+
+* **ci:** Node.js v10 is no longer supported.
+
+### Features
+
+* **ci:** add Node.js v16, remove Node.js v10 ([f0bad69](https://github.com/KenanY/secure-random-bytes/commit/f0bad696a78a31d5b87b4eedf835e0eec5e95354))
+
 ### [2.0.3](https://github.com/KenanY/secure-random-bytes/compare/2.0.2...2.0.3) (2021-04-02)
 
 
