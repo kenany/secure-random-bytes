@@ -10,7 +10,7 @@
   "license": "MIT",
   "author": "Kenan Yildirim <kenan@kenany.me> (https://kenany.me/)",
   "engines": {
-    "node": "12 || 14 || >=16"
+    "node": "14 || 16 || >=18"
   },
   "main": "index.js",
   "files": [

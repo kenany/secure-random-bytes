@@ -12,18 +12,18 @@ test('exports a function', (t) => {
 
 test('returns string of proper length', (t) => {
   t.plan(1);
-  var array = new Array(1000);
+  const array = new Array(1000);
   t.ok(every(array, () => {
-    var bytes = randomBytes(5);
+    const bytes = randomBytes(5);
     return isString(bytes) && bytes.length === 5;
   }));
 });
 
 test('returns empty string when given no length', (t) => {
   t.plan(1);
-  var array = new Array(1000);
+  const array = new Array(1000);
   t.ok(every(array, () => {
-    var bytes = randomBytes();
+    const bytes = randomBytes();
     return isString(bytes) && !bytes.length;
   }));
 });
