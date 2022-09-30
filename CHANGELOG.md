@@ -1,3 +1,14 @@
+## [4.0.0](https://github.com/KenanY/secure-random-bytes/compare/3.0.1...4.0.0) (2022-09-30)
+
+
+### ⚠ BREAKING CHANGES
+
+* Node.js v12 is no longer supported.
+
+### Features
+
+* drop Node.js v12 support ([2af9157](https://github.com/KenanY/secure-random-bytes/commit/2af915726d1900f4f5bdaba1ec65a686fd5bcdf6))
+
 ### [3.0.1](https://github.com/KenanY/secure-random-bytes/compare/3.0.0...3.0.1) (2021-08-18)
 
 
