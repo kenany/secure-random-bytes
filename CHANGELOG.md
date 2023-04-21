@@ -1,3 +1,10 @@
+## [4.0.2](https://github.com/KenanY/secure-random-bytes/compare/4.0.1...4.0.2) (2023-04-21)
+
+
+### Bug Fixes
+
+* **deps:** secure-random-octet@3.0.2 ([cf99403](https://github.com/KenanY/secure-random-bytes/commit/cf99403619d5591d28132ac1b70634938c42e2aa))
+
 ## [4.0.1](https://github.com/KenanY/secure-random-bytes/compare/4.0.0...4.0.1) (2022-09-30)
 
 
