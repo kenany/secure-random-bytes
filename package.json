@@ -1,6 +1,6 @@
 {
   "name": "secure-random-bytes",
-  "version": "4.0.2",
+  "version": "5.0.0",
   "description": "Retrieve a secure random byte string of a specified length",
   "keywords": [
     "crypto",
