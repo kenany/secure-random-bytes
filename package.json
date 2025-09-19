@@ -10,7 +10,7 @@
   "license": "MIT",
   "author": "Kenan Yildirim <kenan@kenany.me> (https://kenany.me/)",
   "engines": {
-    "node": "18 || >=20"
+    "node": "20 || 22 || >=24"
   },
   "main": "index.js",
   "files": [
@@ -22,7 +22,7 @@
   },
   "scripts": {
     "coverage": "nyc npm test",
-    "lint": "eslint *.js test/*.js",
+    "lint": "biome check .",
     "release": "semantic-release",
     "test": "tape test/index.js"
   },
@@ -30,11 +30,11 @@
     "secure-random-octet": "^4.0.1"
   },
   "devDependencies": {
-    "@kenan/eslint-config": "^11.1.18",
+    "@biomejs/biome": "2.2.4",
+    "@kenan/biome-config": "1.0.4",
     "@semantic-release/changelog": "^6.0.3",
     "@semantic-release/git": "^10.0.1",
     "conventional-changelog-conventionalcommits": "^9.1.0",
-    "eslint": "^8.57.1",
     "lodash.every": "^4.6.0",
     "lodash.isfunction": "^3.0.9",
     "lodash.isstring": "^4.0.1",
