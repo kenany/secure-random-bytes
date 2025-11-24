@@ -1,3 +1,9 @@
+## [6.0.2](https://github.com/kenany/secure-random-bytes/compare/6.0.1...6.0.2) (2025-11-24)
+
+### Bug Fixes
+
+* **deps:** secure-random-octet@5.0.2 ([513e657](https://github.com/kenany/secure-random-bytes/commit/513e6578edaa5cd9b477b9e511e267981d71bd7b))
+
 ## [6.0.1](https://github.com/kenany/secure-random-bytes/compare/6.0.0...6.0.1) (2025-09-19)
 
 ### Bug Fixes
