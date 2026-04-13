@@ -1,17 +1,17 @@
 {
   "name": "secure-random-bytes",
-  "version": "6.0.2",
+  "version": "0.0.0-semantic-release",
   "description": "Retrieve a secure random byte string of a specified length",
   "keywords": [
     "crypto",
     "random"
   ],
-  "repository": "github:kenany/secure-random-bytes",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kenany/secure-random-bytes.git"
+  },
   "license": "MIT",
   "author": "Kenan Yildirim <kenan@kenany.me> (https://kenany.me/)",
-  "engines": {
-    "node": "20 || 22 || >=24"
-  },
   "main": "index.js",
   "files": [
     "index.js",
@@ -20,20 +20,21 @@
   "directories": {
     "test": "test"
   },
+  "engines": {
+    "node": "20 || 22 || >=24"
+  },
   "scripts": {
-    "coverage": "nyc npm test",
+    "coverage": "nyc pnpm test",
     "lint": "biome check .",
-    "release": "semantic-release",
     "test": "tape test/index.js"
   },
   "dependencies": {
     "secure-random-octet": "^5.0.2"
   },
   "devDependencies": {
-    "@biomejs/biome": "2.4.9",
+    "@biomejs/biome": "2.4.11",
+    "@containerbase/semantic-release-pnpm": "1.3.32",
     "@kenan/biome-config": "1.0.6",
-    "@semantic-release/changelog": "6.0.3",
-    "@semantic-release/git": "10.0.1",
     "conventional-changelog-conventionalcommits": "9.3.1",
     "lodash.every": "4.6.0",
     "lodash.isfunction": "3.0.9",
