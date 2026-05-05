@@ -9,7 +9,7 @@ importers:
   .:
     dependencies:
       secure-random-octet:
-        specifier: ^5.0.3
+        specifier: ^5.0.4
         version: 5.0.4
     devDependencies:
       '@biomejs/biome':
