@@ -29,7 +29,7 @@
     "test": "tape test/index.js"
   },
   "dependencies": {
-    "secure-random-octet": "^5.0.3"
+    "secure-random-octet": "^5.0.4"
   },
   "devDependencies": {
     "@biomejs/biome": "2.4.14",
