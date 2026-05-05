@@ -10,7 +10,7 @@ importers:
     dependencies:
       secure-random-octet:
         specifier: ^5.0.3
-        version: 5.0.3
+        version: 5.0.4
     devDependencies:
       '@biomejs/biome':
         specifier: 2.4.14
@@ -1763,8 +1763,8 @@ packages:
     resolution: {integrity: sha512-x/+Cz4YrimQxQccJf5mKEbIa1NzeCRNI5Ecl/ekmlYaampdNLPalVyIcCZNNH3MvmqBugV5TMYZXv0ljslUlaw==}
     engines: {node: '>= 0.4'}
 
-  secure-random-octet@5.0.3:
-    resolution: {integrity: sha512-u6uwSueq6AdGBPjWNIJ8aFxZyOPXLyJhYDPSNPPXhuJ2avmt6MAx1V/18CKpELdqe81xE0b6o3AswY9Tmhswzg==}
+  secure-random-octet@5.0.4:
+    resolution: {integrity: sha512-2EfppEeTsl2E9K+CHyTXFOnJZ0s3xxEPeASyqFZ9q29eNT8gAiGpF7znWkLzFAPrghn4zgG+JNDeG7jIHxTmtA==}
     engines: {node: 20 || 22 || >=24}
 
   semantic-release@25.0.3:
@@ -4054,7 +4054,7 @@ snapshots:
       es-errors: 1.3.0
       is-regex: 1.2.1
 
-  secure-random-octet@5.0.3:
+  secure-random-octet@5.0.4:
     dependencies:
       get-random-values: 4.1.2
 
