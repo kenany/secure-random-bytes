@@ -1,4 +1,4 @@
-const randomOctet = require('secure-random-octet');
+const { secureRandomOctet } = require('secure-random-octet');
 
 /**
  * Generates a secure random byte string of a specified length.
@@ -9,7 +9,7 @@ const randomOctet = require('secure-random-octet');
 function randomBytes(length) {
   let result = '';
   for (let i = 0; i < length; i++) {
-    result += String.fromCharCode(randomOctet());
+    result += String.fromCharCode(secureRandomOctet());
   }
   return result;
 }
