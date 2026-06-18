@@ -43,5 +43,5 @@
     "semantic-release": "25.0.5",
     "tape": "5.10.1"
   },
-  "packageManager": "pnpm@11.5.2"
+  "packageManager": "pnpm@11.7.0"
 }
