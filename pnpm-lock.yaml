@@ -110,7 +110,7 @@ importers:
   .:
     dependencies:
       secure-random-octet:
-        specifier: ^6.0.0
+        specifier: ^6.0.1
         version: 6.0.1
     devDependencies:
       '@biomejs/biome':
