@@ -5,7 +5,7 @@ Retrieve a secure random byte string of a specified length.
 ## Example
 
 ```javascript
-const randomBytes = require("secure-random-bytes");
+const randomBytes = require('secure-random-bytes');
 
 randomBytes(10);
 // => 'ÊïÜsóÐ\u0006\u0016mÏ'
@@ -20,7 +20,7 @@ $ npm install secure-random-bytes
 ## API
 
 ```javascript
-const randomBytes = require("secure-random-bytes");
+const randomBytes = require('secure-random-bytes');
 ```
 
 ### `randomBytes(length)`
